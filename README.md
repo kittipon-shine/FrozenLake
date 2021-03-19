@@ -1,2 +1,0 @@
-# FrozenLake
- Using q-learning
